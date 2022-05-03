@@ -77,7 +77,7 @@ O programa conta com mais de 1.500 horas de aulas online, aborda introdução ao
 - [ ] 10-3: Jest - Simulando Comportamentos
 - [ ] 10-4: _[Projeto - Jest Assíncrono e Mocking]()_
 
-### Desenvolvimento Front-End
+### Desenvolvimento Front-End :hourglass_flowing_sand:
 
 ##### - Bloco 11: Introdução - React
 - [ ] 11-1: 'Helo world!' no React
