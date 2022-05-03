@@ -5,3 +5,8 @@ O que eu vou aprender na Trybe:
 - Git
 HTML
 CSS
+=======
+React
+JavaScript
+Jest
+Soft-skills
