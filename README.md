@@ -20,68 +20,116 @@ O programa conta com mais de 1.500 horas de aulas online, aborda introdução ao
 - [X] 2-2: Entendendo os comandos
 - [ ] 2-3: Internet - Entendendo como ela funciona
 
-##### - Bloco 3: Introdução - HTML & CSS
+##### - Bloco 3: Introdução à HTML & CSS
+- [ ] 3-1: Introdução - HTML & CSS
 - [ ] 3-1: HTML & CSS - Estruturas de página
 - [ ] 3-2: HTML & CSS - Primeiros passos em CSS
 - [ ] 3-3: HTML & CSS - Seletores e posicionamentos
 - [ ] 3-4: HTML Semântico
 - [ ] 3-5: _[Projeto - HTML & CSS]()_
 
-##### - Bloco 4: Introdução - JavaScript
+##### - Bloco 4: Introdução à JavaScript e Lógica de Programação
+- [ ] 4-1: Introdução - JavaScript
 - [ ] 4-1: JavaScript - Primeiros passos
 - [ ] 4-2: JavaScript - Array e loop For
 - [ ] 4-3: JavaScript - Lógica de Programação e Algoritmos
 - [ ] 4-4: JavaScript - Objetos e funções
 - [ ] 4-5: _[Projeto - Playground Functions]()_
 
-##### - Bloco 5: Introdução - JavaScript - Projetos
+##### - Bloco 5: JavaScript: DOM, Eventos e Web Storage
 - [ ] 5-1: JavaScript - DOM e seletores
 - [ ] 5-2: JavaScript - Trabalhando com elementos
 - [ ] 5-3: JavaScript - Eventos
 - [ ] 5-4: JavaScript - Web Storage
-- [ ] 5-5: _[Projeto - Meme Generator]()_
-- [ ] 5-6: _[Projeto - Arte com Pixels]()_
-- [ ] 5-7: _[Projeto - Lista de Tarefas]()_
-- [ ] 5-7: _[Projeto - Advinhe a Cor]()_
-- [ ] 5-7: _[Projeto - Carta Misteriosa]()_
+- [ ] 5-5: _[Projeto - Fundamentos - JavaScript]()_
+- [ ] 5-5: _[Projeto - Arte com Pixels]()_
+- [ ] 5-6: _[(Bônus) Projeto - Lista de Tarefas]()_
+- [ ] 5-7: _[(Bônus) Projeto - Meme Gerador]()_
+- [ ] 5-7: _[(Bônus) Projeto - Advinhe a Cor]()_
+- [ ] 5-7: _[(Bônus) Projeto - Carta Misteriosa]()_
 
-##### - Bloco 6: HTML & CSS avançado
+##### - Bloco 6: HTML & CSS: Forms, Flexbox e Responsivo
 - [ ] 6-1: HTML & CSS - Forms
 - [ ] 6-2: Bibliotecas JavaScript e Frameworks CSS
 - [ ] 6-3: CSS Flexbox - Part 1
 - [ ] 6-4: CSS Flexbox - Part 2
 - [ ] 6-5: CSS Responsivo - Mobile First
-- [ ] 6-6: _[Projeto - Página Inicial do Facebook]()_
+- [ ] 6-6: _[Projeto - Trybewarts]()_
 
-##### - Bloco 7: JavaScript ES6 & Testes Unitários
+##### - Bloco 7: Introdução à JavaScript ES6 e Testes Unitários
 - [ ] 7-1: JavaScript ES6 - let, const, arrow functions e template literals
-- [ ] 7-2: JavaScript ES6 - Objects
-- [ ] 7-3: Testes unitários em JavaScript
+- [ ] 7-2: JavaScript ES6 - Fluxo de exceção e Objetos
+- [ ] 7-3: Primeiros passos em Jest
 - [ ] 7-4: _[Projeto - JavaScript Testes Unitários]()_
 
-##### - Bloco 8: JavaScript ES6
-- [ ] 8-1: JavaScript ES6 - Higher Order Functions - forEach, some, every, sort
-- [ ] 8-2: JavaScript ES6 - Higher Order Functions - map e filter
-- [ ] 8-3: JavaScript ES6 - Higher Order Functions - reduce
-- [ ] 8-4: JavaScript ES6 - spread operator, rest parameter, destructuring e mais
-- [ ] 8-5: _[Projeto - Zoo Functions]()_
+##### - Bloco 8: Higher Order Functions do JavaScript ES6
+- [ ] 8-1: JavaScript ES6 - Introdução a Higher Order Functions
+- [ ] 8-2: JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
+- [ ] 8-3: JavaScript ES6 - Higher Order Functions - map e filter
+- [ ] 8-4: JavaScript ES6 - Higher Order Functions - reduce
+- [ ] 8-5: JavaScript ES6 - spread operator, rest parameter, destructuring e mais
+- [ ] 8-6: _[Projeto - Zoo Functions]()_
 
-##### - Bloco 9: Assincronicidade & Callbacks
+##### - Bloco 9: JavaScript e Testes Assíncronos
 - [ ] 9-1: JavaScript Assíncrono e Callbacks
-- [ ] 9-2: JavaScript Promises
+- [ ] 9-2: JavaScript Assíncrono - Fetch API e async-await
+- [ ] 9-3: Jest - Testes Assíncronos
 - [ ] 9-3: _[Projeto - Carrinho de Compras]()_
-
-##### - Bloco 10: Jest
-- [ ] 10-1: Primeiros passos no Jet
-- [ ] 10-2: Jest - Testes Assíncronos
-- [ ] 10-3: Jest - Simulando Comportamentos
-- [ ] 10-4: _[Projeto - Jest Assíncrono e Mocking]()_
 
 ### Desenvolvimento Front-End :hourglass_flowing_sand:
 
-##### - Bloco 11: Introdução - React
-- [ ] 11-1: 'Helo world!' no React
-- [ ] 11-2: Componentes React
-- [ ] 11-3: _[Projeto - Movie Cards Library]()_
 
-##### - Bloco 12: React
+##### - Bloco 10: Introdução à React
+- [ ] 10-1: Introdução - Front-end
+- [ ] 10-1: Introdução - React
+- [ ] 10-1: Introdução - 'Hello, world!' no React!
+- [ ] 10-2: Componentes React
+- [ ] 10-3: _[Projeto - Sistema Solar]()_
+
+##### - Bloco 11: Componentes com Estado,Eventos e Formulários com React
+- [ ] 11-1: Componentes com estados e eventos
+- [ ] 11-2: Formulários no React React
+- [ ] 11-3: _[Projeto - Tryunfo]()_
+
+##### - Bloco 12: Ciclo de Vida de Componentes e React Router
+- [ ] 12-1: Ciclo de vida de componentes
+- [ ] 12-2: React Router
+- [ ] 12-3: _[Projeto - TrybeTunes]()_
+
+##### - Bloco 13: Metodologias Ágeis
+- [ ] 13-1: Metodologias Ágeis
+- [ ] 13-2: _[Projeto - Frontend Online Store]()_
+
+##### - Bloco 14: Testes automizados com React Testing Library
+- [ ] 14-1: RTL - Primeiros passos
+- [ ] 14-2: RTL - Mocks e inputs
+- [ ] 14-3: RTL - Testando React Router
+- [ ] 14-4: _[Projeto - Testes em React]()_
+
+##### - Bloco 15: Gerenciamento de estado com Redux
+- [ ] 15-1: Introdução ao Redux - O estado global da aplicação
+- [ ] 15-2: Usando o Redux no React
+- [ ] 15-3: Usando o Redux no React - Prática
+- [ ] 15-4: Usando o Redux no React - Actions Assíncronas
+- [ ] 15-5: Testes em React-Redux
+- [ ] 15-6: _[Projeto - Trybe Wallet]()_
+
+##### - Bloco 16: Projeto Jogo de Trivia
+- [ ] 16-1: _[Projeto - Jogo de Trivia]()_
+
+##### - Bloco 17: Context API e React Hooks
+- [ ] 17-1: Context API do React
+- [ ] 17-2: React Hooks - useState e useContext
+- [ ] 17-3: React Hooks - useEffect e Hooks customizados
+- [ ] 17-4: _[Projeto - StarWars Datatable com Context API e Hooks]()_
+
+##### - Bloco 18: Projeto App de Receitas
+- [ ] 18-1: _[Projeto - App de Receitas
+
+### Desenvolvimento Back-end
+
+##### -Bloco 19: Docker: Utilizando Containers
+- [ ] 19-1: Introdução - Back-end
+- [ ] 19-2: Manipulação e Criação de Imagens no Docker
+- [ ] 19-3: Orquestrando Containers com Docker Compose
+- [ ] 19-4: _[Projeto - Docker Todo-List]()_
