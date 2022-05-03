@@ -1,6 +1,6 @@
 # Trybe
 
-Este repositório contém todas as atividades de aprendizagem desenvolvidas por Mayara Marques enquanto estudava na Trybe 🚀
+Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Mayara Marques](https://linkedin.com/in/mayaramarquescosta)_ enquanto estudava na [Trybe](https://linkedin.com/in/betrybe) 🚀
 
 
 "A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando conseguir um bom trabalho."
