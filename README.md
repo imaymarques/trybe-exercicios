@@ -128,8 +128,49 @@ O programa conta com mais de 1.500 horas de aulas online, aborda introdução ao
 
 ### Desenvolvimento Back-end
 
-##### -Bloco 19: Docker: Utilizando Containers
+##### - Bloco 19: Docker: Utilizando Containers
 - [ ] 19-1: Introdução - Back-end
 - [ ] 19-2: Manipulação e Criação de Imagens no Docker
 - [ ] 19-3: Orquestrando Containers com Docker Compose
 - [ ] 19-4: _[Projeto - Docker Todo-List]()_
+
+##### - Bloco 20: Introdução à SQL
+- [ ] 20-1: Introdução - Bancos e Dados relacionais
+- [ ] 20-1: Banco de Dados SLQ
+- [ ] 20-2: Encontrando dados em um banco de dados
+- [ ] 20-3: Filtrando dados de forma específica
+- [ ] 20-4: Manipulando tabelas
+- [ ] 20-5: _[Projeto - All For One]()_
+
+##### - Bloco 21: Funções SQL, JOINs e Normalização
+- [ ] 21-1: Funções mais usadas no SLQ
+- [ ] 21-2: Descomplicando JOINs
+- [ ] 21-3: Transformando ideias em um modelo de banco de dados
+- [ ] 21-4: Aula ao vivo + _[Projeto - One For All]()_
+
+##### - Bloco 22: Introdução ao Desenvolvimento Web com Node.js
+- [ ] 22-1: Intro - Node.js
+- [ ] 22-1: Node.js - Um motor JavaScript
+- [ ] 22-2: Node.js - Fluxo Assíncrono
+- [ ] 22-3: Mocha, Chai e Sinon - Testes de Back-end com Node.js
+- [ ] 22-4: Express - HTTP com Node.js
+- [ ] 22-5: Express - Middlewares
+- [ ] 22-6: Atividades + _[Projeto - Talker Manager]()_
+
+##### - Bloco 23: Node.js: Camada de Serviço e Arquitetura Rest e Restful
+- [ ] 23-1: Introdução - Arquitetura de Software
+- [ ] 23-1: Arquitetura de Software - Camada de Model
+- [ ] 23-2: Arquitetura de Software - Camada de Controller e Service
+- [ ] 23-3: Arquitetura Web - Rest e Restful
+- [ ] 23-4: Arquitetura de Software - Testando as Camadas
+- [ ] 23-5: _[Projeto - Store Manager]()_
+
+##### - Bloco 24 Node.js: ORM e Autenticação
+- [ ] 24-1: Introdução - Node.js: ORM e Autenticação
+- [ ] 24-1: ORM - Interface da aplicação com o banco de dados
+- [ ] 24-2: ORM - Associations
+- [ ] 24-3: JWT - (JSON Web Token)
+- [ ] 24-4: Testando APIs com Testes de Integração
+- [ ] 24-5: _[Projeto - API de Blogs]()_
+
+##### - Bloco 25: Deployment
