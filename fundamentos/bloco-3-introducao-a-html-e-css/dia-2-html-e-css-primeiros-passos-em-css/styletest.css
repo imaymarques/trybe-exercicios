@@ -1,0 +1,29 @@
+
+       .style {
+            color: orange;
+            font-family: sans-serif;
+        }
+        .estetica {
+            background-color: palevioletred;
+        }
+        .estetic {
+            font-weight: 600;
+            font-size: 3em;
+            background-color: palevioletred;
+        }
+        body {
+            font-size: 16px;
+            font-style: italic;
+            line-height: 20px;
+            text-align: justify;
+            text-decoration: wavy;
+        }
+        #red {
+            color: red;
+        }
+        #pink {
+            color: pink;
+        }
+        #blue {
+            color: blue;
+       }
