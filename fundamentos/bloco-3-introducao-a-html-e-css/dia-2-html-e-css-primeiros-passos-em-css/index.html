@@ -4,22 +4,44 @@
     <meta charset="UTF-8">
     <title>HTML</title>
     <style>
-        h1 {
+        .style {
             color: orange;
+            font-family: sans-serif;
         }
         .estetica {
             background-color: palevioletred;
+        }
+        .estetic {
+            font-weight: 600;
+            font-size: 3em;
+            background-color: palevioletred;
+        }
+        body {
+            font-size: 16px;
+            font-style: italic;
+            line-height: 20px;
+            text-align: justify;
+            text-decoration: wavy;
+        }
+        #red {
+            color: red;
+        }
+        #pink {
+            color: pink;
+        }
+        #blue {
+            color: blue;
         }
     </style>
     
   </head>
   <body>
-    <h1>Exercícios 3.2</h1>
-    <p class="estetica">Qual é a sua cor favorita?</p>
+    <h1 class="style">Exercícios 3.2</h1>
+    <p class="estetic">Qual é a sua cor favorita?</p>
     <ul class="estetica">
-      <li>Vermelho</li>
-      <li>Rosa</li>
-      <li>Azul</li>
+      <li id="red">Vermelho</li>
+      <li id="pink">Rosa</li>
+      <li id="blue">Azul</li>
     </ul>
   </body>
 </html>
