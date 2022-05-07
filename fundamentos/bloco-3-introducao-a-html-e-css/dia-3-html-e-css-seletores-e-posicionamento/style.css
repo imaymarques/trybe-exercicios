@@ -1,32 +1,26 @@
-.super-mario {
-    width: 100px;
-    position: absolute;
-  }
-  
-  .goomba {
-    width: 100px;
-  }
-  
-  .baloon {
-      position: relative;
-      top: -90px;
-      z-index: 1;
-
-  }
-  
-  .speach {
-    font-size: 25px;
-    position: relative;
-    top: 30px;
-    left: 30px;
-    z-index: 2;
-
-  }
-  
-  .bowser {
-    position: relative;  
-    width: 200px;
-    top: 300px;
-    left: 200px;
-
-  }
+div:hover {
+    border-style: groove;
+}
+.vermelho {
+    background-color: red;
+    font-style: italic;
+}
+.azul {
+    background-color: blue;
+}
+.amarelo {
+    background-color: yellow;
+    font-size: 20px;
+    font-style: italic;
+}
+.roxo {
+    background-color: purple;
+}
+.rosa {
+    background-color: pink;
+    font-style: italic;
+}
+h3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: underline;
+}
