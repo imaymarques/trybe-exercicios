@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(240, 222, 231);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+header {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(0, 3, 3);
+    text-align: center;
+}
+.links {
+    display: inline;
+    text-align: center;
+}
