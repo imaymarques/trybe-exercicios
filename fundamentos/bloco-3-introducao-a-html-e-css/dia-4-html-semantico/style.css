@@ -13,7 +13,7 @@ header {
     font-family: 'Times New Roman', Times, serif;
 }
 footer {
-    text-align: center;
+    text-align: right;
 }
 li:hover {
     background-color: rgb(177, 238, 108);
