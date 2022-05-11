@@ -1,0 +1,47 @@
+body {
+    background-color: rgb(253, 251, 251);
+    color: darkred;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#cabecalho {
+    position: fixed;
+    top: 0%;
+    background-color: coral;
+    width: 100%;
+    padding: 10px;
+}
+table, th, td {
+    border: 2px solid red;
+    border-collapse: collapse;
+}
+#minha_foto {
+    margin-top: 120px;
+    padding: auto;
+    border: green solid;
+}
+#licoes_aprendidas {
+    font-size: large;
+}
+#licoes_a_aprender {
+    font-size: medium;
+}
+article {
+    line-height: 20px;
+}
+.lado-esquerdo {
+    display: inline-block;
+    float: left;
+    width: 49%;
+    text-align: justify;
+}
+.lado-direito {
+    display: inline-block;
+    float: right;
+    width: 49%;
+    text-align: justify;
+}
+table {
+    margin-top: 100px;
+    display: inline-block;
+    margin-left: 0%;
+}
