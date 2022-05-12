@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(240, 222, 231);
+}
+header {
+    color: rgb(0, 3, 3);
+    text-align: center;
+}
+.links {
+    display: inline;
+    text-align: center;
+}
+.lagosta {
+    font-family: 'Times New Roman', Times, serif;
+}
+footer {
+    text-align: right;
+}
+li:hover {
+    background-color: rgb(177, 238, 108);
+}
