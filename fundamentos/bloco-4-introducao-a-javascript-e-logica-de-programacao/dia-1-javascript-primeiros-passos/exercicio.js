@@ -1,15 +1,12 @@
-/*3. Faça um programa que retorne o maior de três números. Defina no começo do programa três constantes com os valores que serão comparados.*/
+/*4. Faça um programa que, dado um valor definido numa constante, retorne "positive" se esse valor for positivo, "negative" se for negativo e "zero" caso contrário.*/
 
-const num1 = 12;
-const num2 = 25;
-const num3 = 20;
-
-if (num1 > num2 && num1 > num3){
-    console.log(num1)
+const valor = 27;
+if(valor > 0){
+    console.log("Positivo")
 }
-else if (num2 > num1 && num2 > num3){
-    console.log(num2)
+else if(valor < 0){
+    console.log("Negativo")
 }
 else{
-    console.log(num3)
+    console.log("Zero")
 }
