@@ -1,8 +1,8 @@
-/*2. Para o segundo exercício, some todos os valores contidos no array e imprima o resultado; */
+/*3. Para o terceiro exercício, calcule e imprima a média aritmética dos valores contidos no array; */
 
 let numbers = [5, 9, 3, 19, 70, 8, 100, 2, 35, 27];
 let soma = 0;
 for (let index = 0; index < numbers.length; index += 1){
-    soma = soma + numbers[index];
+    soma = soma + numbers[index] / numbers.length;
 }
 console.log(soma);
