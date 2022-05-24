@@ -1,0 +1,39 @@
+<main id="paiDoPai">
+    <section id="pai">
+      <section id="primeiroFilho"></section>
+      <section id="elementoOndeVoceEsta">
+        <section id="primeiroFilhoDoFilho"></section>
+        <section id="segundoEUltimoFilhoDoFilho"></section>
+      </section>
+      Atenção!
+      <section id="terceiroFilho"></section>
+      <section id="quartoEUltimoFilho"></section>
+    </section>
+    <script>
+    // 1. Acesse o elemento elementoOndeVoceEsta.
+     const ondeEstou = document.getElementById('elementoOndeVoceEsta');
+
+    // 2. Acesse pai a partir de elementoOndeVoceEsta e adicione uma color a ele.
+    let alterarCor = elementoOndeVoceEsta.parentElement;
+    alterarCor.style.color = 'blue';
+    
+    // 3. Acesse o primeiroFilhoDoFilho e adicione um texto a ele. Você se lembra dos vídeos da aula anterior, como fazer isso?    
+    let texto = elementoOndeVoceEsta.firstElementChild;
+    texto.innerText = 'Teste para o aprendizado de hoje na aula de DOM JavaScript.'
+
+    // 4. Acesse o primeiroFilho a partir de pai.
+    let acesso = pai.firstElementChild;
+
+    // 5. Agora acesse o primeiroFilho a partir de elementoOndeVoceEsta.
+    let acesso2 = elementoOndeVoceEsta.previsousElementSimbling;
+
+    // 6. Agora acesse o texto Atenção! a partir de elementoOndeVoceEsta.
+    let acesso3 = elementoOndeVoceEsta.nextSimbling;
+
+    // 7. Agora acesse o terceiroFilho a partir de elementoOndeVoceEsta.
+    let acesso4 = elementoOndeVoceEsta.nextElementSimbling;
+
+    // 8. Agora acesse o terceiroFilho a partir de pai.
+    let ultimoFilho = pai.lastElementChild.previsousElementSimbling;
+    </script>
+  </main>
