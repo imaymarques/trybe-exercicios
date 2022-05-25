@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercício 5.4</title>
+</head>
+<body id="corpo">
+    <style>
+        .curiosities {
+            color: pink;
+            font-family: fantasy;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        body {
+            background-color: rgb(47, 2, 18);
+            margin: 100px 100px 50px;
+        }
+        .main {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            color: whitesmoke;
+            font-family: fantasy;
+            display: inline-block;
+        }
+        .buttons {
+            display: inline-block;
+            background-color: brown;
+            font-family: fantasy;
+        }
+    </style>
+    <main class="main">
+        <div>
+            <h1 class="curiosities">Curiosidades sobre Recife</h1>
+        </div>
+        <section class="backgroundButtons">
+            <span>Cor de Fundo:</span><br>
+            <button>Azul</button>
+            <button>Amarelo</button>
+            <button>Vermelho</button>
+            <button>Branco</button>
+            <button>Laranja</button>
+            <button>Verde</button><br>
+        </section>
+        <section class="textColor">
+            <span>Cor do Texto:</span><br>
+            <button>Azul</button>
+            <button>Amarelo</button>
+            <button>Vermelho</button>
+            <button>Branco</button>
+            <button>Laranja</button>
+            <button>Verde</button><br>
+        </section>
+        <section class="size">
+            <span>Tamanho da Fonte:</span><br>
+            <button>14</button>
+            <button>15</button>
+            <button>16</button>
+            <button>17</button>
+            <button>18</button>
+            <button>19</button>
+            <button>20</button>
+            <button>21</button>
+            <button>22</button>
+            <button>23</button>
+            <button>24</button><br>
+        </section>
+        <section class="large">
+            <span>Espaçamento:</span><br>
+            <button>10</button>
+            <button>11</button>
+            <button>12</button>
+            <button>13</button>
+            <button>14</button><br>
+            <span>Fonte:</span><br>
+            <button>Font-Family</button>
+        </section>
+            <div>
+                <p>Recife, a capital do estado de Pernambuco, no nordeste do Brasil, diferencia-se de outras cidades pelos seus vários rios, pontes, ilhéus e penínsulas. Recife Antigo, na própria ilha junto ao porto, é o centro histórico da cidade antiga que data do século XVI. Ao sul, a popular Praia de Boa Viagem é protegida por recifes, que dão nome a região. Para te ajudar a conhecer um pouco mais sobre a capital de Pernambuco, preparamos uma lista com 5 curiosidades sobre a cidade de Recife. 
+                </p>       
+            </div>
+            <img src="https://a.cdn-hotels.com/gdcs/production65/d66/14724f91-e713-45a4-89c2-b5aa6e7a9420.jpg?impolicy=fcrop&w=800&h=533&q=medium" alt="cidade do recife antigo" width="500px">
+            <ol class="lista">
+                <li><strong>Clarice Lispector</strong></li>
+                <p>A escritora Clarice Lispector, reconhecida internacionalmente, veio da Ucrânia ainda criança com a família e viveu no Recife, mais precisamente no entorno da Praça Maciel Pinheiro, no bairro da Boa Vista.</p>
+                <li><strong>Bolo de Rolo</strong></li>
+                <p>Parecido com o rocambole, uma sobremesa típica da cidade de Recife é o bolo de rolo. A receita, recheada com goiabada, leva farinha de trigo, ovos, manteiga e açúcar. Outro bolo bastante comum na região é o Souza Leão, feito com uma massa de mandioca.</p>
+                <li><strong>Bebidas Alcóolicas</strong></li>
+                <p>A cidade é a maior consumidora de uísque per capita no mundo. São mais de 2 milhões de litros consumidos anualmente na região. Além disso, foi lá que surgiu  a primeira fábrica de cerveja do Brasil.</p>
+                <li><strong>Carnaval</strong></li>
+                <p>Recife é palco de um dos maiores blocos de Carnaval de todo o Brasil: o Galo da Madrugada, que disputa com o bloco Cordão da Bola Preta, no Rio de Janeiro, o título de maior do país. Além disso, o Recife Antigo também reúne palcos com shows gratuitos durante toda a celebração.</p>
+                <li><strong>Nome</strong></li>
+                <p>O nome Recife surgiu por conta dos arrecifes presentes em toda a costa da região. Outra curiosidade sobre o nome é que ele é derivado do árabe ar-raçif, que significa caminho, pavimento, caminho de pedras ou molhe.</p>            </ol>
+    </main>
+    <script>
+        // As pessoas devem ter o poder de alterar:
+// Cor de fundo da tela;
+// Cor do texto;
+// Tamanho da fonte;
+// Espaçamento entre as linhas do texto;
+// Tipo da fonte (Font family).
+// Essas preferências devem ser salvas de forma que, ao retornar à página, as preferências que foram previamente configuradas possam ser aplicadas na tela.
+
+
+window.onload = function () {
+    function chooseBackgroundColor(color) {
+        let getBody = document.getElementById('corpo');
+        getBody.style.backgroundColor = color;
+        localStorage.setItem("backgroundColor", color);
+    }
+    function textColor(text) {
+        let textColor = document.getElementsByTagName('p');
+        for (let index = 0; index < textColor.length; index += 1) {
+            textColor[index].style.color = color;
+        }
+        localStorage.setItem("fontColor", color);
+    }
+    function fontSize(size) {
+        let font = document.getElementsByTagName('p');
+        for (let i = 0; i < font.length; i += 1) {
+            font[i].style.fontSize = size;
+        }
+        localStorage.setItem("fontSize", size);
+    }
+    function nextFont(next) {
+        let nearFont = document.getElementsByTagName('p');
+        for (let index = 0; index < nearFont.length; index += 1) {
+            nearFont[index].style.lineHeight = height;
+        }
+        localStorage.setItem("lineHeight", height);
+    }
+    function fontFamily(font) {
+        let familyText = document.getElementsByTagName('p');
+        for (let index = 0; index < familyText.length; index += 1) {
+            familyText[index].style.fontFamily = family;
+        }
+        localStorage.setItem("fontFamily", family);
+    }
+    let buttonsBackgroundColor= document.querySelectorAll("");
+
+}
+    </script>
+</body>
+</html>
