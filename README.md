@@ -33,51 +33,50 @@ O programa conta com mais de 1.500 horas de aulas online, aborda introdução ao
 - [X] 4-1: JavaScript - Primeiros passos
 - [X] 4-2: JavaScript - Array e loop For
 - [X] 4-3: JavaScript - Lógica de Programação e Algoritmos
-- [ ] 4-4: JavaScript - Objetos e funções
-- [ ] 4-5: _[Projeto - Playground Functions]()_
+- [X] 4-4: JavaScript - Objetos e funções
+- [X] 4-5: _[Projeto - Playground Functions]()_
 
 ##### - Bloco 5: JavaScript: DOM, Eventos e Web Storage
-- [ ] 5-1: JavaScript - DOM e seletores
-- [ ] 5-2: JavaScript - Trabalhando com elementos
-- [ ] 5-3: JavaScript - Eventos
-- [ ] 5-4: JavaScript - Web Storage
-- [ ] 5-5: _[Projeto - Fundamentos - JavaScript]()_
-- [ ] 5-5: _[Projeto - Arte com Pixels]()_
-- [ ] 5-6: _[(Bônus) Projeto - Lista de Tarefas]()_
-- [ ] 5-7: _[(Bônus) Projeto - Meme Gerador]()_
-- [ ] 5-7: _[(Bônus) Projeto - Advinhe a Cor]()_
-- [ ] 5-7: _[(Bônus) Projeto - Carta Misteriosa]()_
+- [X] 5-1: JavaScript - DOM e seletores
+- [X] 5-2: JavaScript - Trabalhando com elementos
+- [X] 5-3: JavaScript - Eventos
+- [X] 5-4: JavaScript - Web Storage
+- [X] 5-5: _[Projeto - Fundamentos - JavaScript]()_
+- [X] 5-5: _[Projeto - Arte com Pixels]()_
+- [X] 5-6: _[(Bônus) Projeto - Lista de Tarefas]()_
+- [X] 5-7: _[(Bônus) Projeto - Meme Gerador]()_
+- [X] 5-7: _[(Bônus) Projeto - Advinhe a Cor]()_
+- [X] 5-7: _[(Bônus) Projeto - Carta Misteriosa]()_
 
 ##### - Bloco 6: HTML & CSS: Forms, Flexbox e Responsivo
-- [ ] 6-1: HTML & CSS - Forms
-- [ ] 6-2: Bibliotecas JavaScript e Frameworks CSS
-- [ ] 6-3: CSS Flexbox - Part 1
-- [ ] 6-4: CSS Flexbox - Part 2
-- [ ] 6-5: CSS Responsivo - Mobile First
-- [ ] 6-6: _[Projeto - Trybewarts]()_
+- [X] 6-1: HTML & CSS - Forms
+- [X] 6-2: Bibliotecas JavaScript e Frameworks CSS
+- [X] 6-3: CSS Flexbox - Part 1
+- [X] 6-4: CSS Flexbox - Part 2
+- [X] 6-5: CSS Responsivo - Mobile First
+- [X] 6-6: _[Projeto - Trybewarts]()_
 
 ##### - Bloco 7: Introdução à JavaScript ES6 e Testes Unitários
-- [ ] 7-1: JavaScript ES6 - let, const, arrow functions e template literals
-- [ ] 7-2: JavaScript ES6 - Fluxo de exceção e Objetos
-- [ ] 7-3: Primeiros passos em Jest
-- [ ] 7-4: _[Projeto - JavaScript Testes Unitários]()_
+- [X] 7-1: JavaScript ES6 - let, const, arrow functions e template literals
+- [X] 7-2: JavaScript ES6 - Fluxo de exceção e Objetos
+- [X] 7-3: Primeiros passos em Jest
+- [X] 7-4: _[Projeto - JavaScript Testes Unitários]()_
 
 ##### - Bloco 8: Higher Order Functions do JavaScript ES6
-- [ ] 8-1: JavaScript ES6 - Introdução a Higher Order Functions
-- [ ] 8-2: JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
-- [ ] 8-3: JavaScript ES6 - Higher Order Functions - map e filter
-- [ ] 8-4: JavaScript ES6 - Higher Order Functions - reduce
-- [ ] 8-5: JavaScript ES6 - spread operator, rest parameter, destructuring e mais
-- [ ] 8-6: _[Projeto - Zoo Functions]()_
-
-##### - Bloco 9: JavaScript e Testes Assíncronos
-- [ ] 9-1: JavaScript Assíncrono e Callbacks
-- [ ] 9-2: JavaScript Assíncrono - Fetch API e async-await
-- [ ] 9-3: Jest - Testes Assíncronos
-- [ ] 9-3: _[Projeto - Carrinho de Compras]()_
+- [X] 8-1: JavaScript ES6 - Introdução a Higher Order Functions
+- [X] 8-2: JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
+- [X] 8-3: JavaScript ES6 - Higher Order Functions - map e filter
+- [X] 8-4: JavaScript ES6 - Higher Order Functions - reduce
+- [X] 8-5: JavaScript ES6 - spread operator, rest parameter, destructuring e mais
+- [X] 8-6: _[Projeto - Zoo Functions]()_
 
 ### Desenvolvimento Front-End :hourglass_flowing_sand:
 
+##### - Bloco 9: JavaScript e Testes Assíncronos
+- [X] 9-1: JavaScript Assíncrono e Callbacks
+- [X] 9-2: JavaScript Assíncrono - Fetch API e async-await
+- [X] 9-3: Jest - Testes Assíncronos
+- [X] 9-3: _[Projeto - Carrinho de Compras]()_
 
 ##### - Bloco 10: Introdução à React
 - [ ] 10-1: Introdução - Front-end
