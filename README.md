@@ -173,3 +173,82 @@ O programa conta com mais de 1.500 horas de aulas online, aborda introdução ao
 - [ ] 24-5: _[Projeto - API de Blogs]()_
 
 ##### - Bloco 25: Deployment
+- [ ] 25-1: Introdução - Deploy
+- [ ] 25-1: Infraestrutura - Deploy com Heroku
+- [ ] 25-2: Deploy Docker & Heroku
+- [ ] 25-3: _[Projeto - Stranger Things]()_
+
+##### - Bloco 26: TypeScript
+- [ ] 26-1: Introdução - TypeScript
+- [ ] 26-1: Introdução ao TypeScript
+- [ ] 26-2: Tipagem Estática e Generics
+- [ ] 26-3: Express com TypeScript
+- [ ] 26-4: _[Projeto - Trybe Smith]()_
+
+##### - Bloco 27: Programação Orientada a Objetos (POO) e SOLID
+- [ ] 27-1: Introdução à Orientação a Objetos
+- [ ] 27-2: Herança e Interfaces
+- [ ] 27-3: Polimorfismo
+- [ ] 27-4: SOLID - Introdução e Princípios S, O e D
+- [ ] 27-5: SOLID - Princípios L e E
+- [ ] 27-6: _[Projeto - Trybers and Dragons]()_
+
+##### - Bloco 28: Projeto - TFC - Trybe Futebol Clube
+- [ ] 28-1: _[Projeto - TFC - Trybe Futebol Clube]()_
+
+##### - Bloco 29: Introdução ao MongDB
+- [ ] 29-1: Introdução - NoSQL
+- [ ] 29-1: MongoDB - Introdução
+- [ ] 29-2: Filter Operators
+- [ ] 29-3: Operadores de Consulta
+- [ ] 29-4: Updates Simples
+- [ ] 29-5: Updates Complexos - Arrays
+- [ ] 29-6: _[Projeto - Commerce]()_
+
+##### - Bloco 30: MongoDB com Node.js e POO
+- [ ] 30-1: MongoDB e Arquitetura MSC
+- [ ] 30-2: MongoDB e POO
+- [ ] 30-3: _[Projeto - Car Shop]()_
+
+##### - Bloco 31: Projeto - App de Delivery
+- [ ] 31-1: _[Projeto - App de Delivery]()_
+
+##### - Bloco 32: MasterClass - VPS, CI/CD
+- [ ] 32-1: Dia 1 - VPS
+- [ ] 32-2: Dia 2
+
+##### - Bloco 33: Introdução à Python
+- [ ] 33-1: Introdução: Ciência da Computação
+- [ ] 33-1: Aprendendo Python
+- [ ] 33-2: Entrada e Saída de Dados
+- [ ] 33-3: Testes
+- [ ] 33-4: _[Projeto - Job Insights]()_
+
+##### - Bloco 34: Padrões de Projeto
+- [ ] 34-1: P.O.O em Python
+- [ ] 34-2: Padrões - Iterator, Adapter, Strategy
+- [ ] 34-3: Padrões - Decorator, Observer, Factory
+- [ ] 34-4: _[Projeto - Relatórios de Estoque]()_
+
+##### - Bloco 35: Redes e Raspagens de Dados
+- [ ] 35-1: Arquitetura de Redes, ferramentas e segurança
+- [ ] 35-2: Raspagens de Dados
+- [ ] 35-3: _[Projeto - Tech News]()_
+
+##### - Bloco 36: Algoritmos
+- [ ] 36-1: Complexidade de Algoritmos
+- [ ] 36-2: Recursividade e Estratégias para Solução de Problemas
+- [ ] 36-3: Algoritmos de ordenação e busca
+- [ ] 36-4: _[Projeto - Algoritmos]()_
+
+##### - Bloco 37: Estrutura de Dados I: Arrays, Listas, Filas e Pilhas
+- [ ] 37-1: Arquitetura de Computadores
+- [ ] 37-2: Arrays
+- [ ] 37-3: Nó e Listas Encadeadas
+- [ ] 37-4: Pilhas e Filas
+- [ ] 37-5: _[Projeto - TING - Trybe Is Not Google]()_
+
+##### - Bloco 38: Estrutura de Dados II: Hashmaps e Set
+- [ ] 38-1: Hashmap e Dict
+- [ ] 38-2: Set
+- [ ] 38-3: _[Projeto - Restaurant Orders]()_
